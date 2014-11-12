@@ -19,7 +19,7 @@ Step-1:
 
 Step-2:
 
-![Step-2](https://github.com/sunilpottumuttu/FiddlerExtensionToCompose-SOAP-Request/blob/master/Docs/Step-2.png)
+![Step-2](https://github.com/sunilpottumuttu/FiddlerExtensionToCompose-SOAP-Request/blob/master/Docs/Step-2.PNG)
 
 
 
